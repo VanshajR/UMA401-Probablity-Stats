@@ -1,0 +1,1 @@
+This repository contains programs written in R as per the lab assignments for the course of Probability and Statistics.
